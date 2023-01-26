@@ -108,23 +108,23 @@ h6 {
 
 .logo::active
 {
-  background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
+  background: url('img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg') no-repeat;
 }
 
 .logo::focus {
-  background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
+  background: url('img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg') no-repeat;
 }
 
 .instagram::hover,
 .instagram::active,
 .instagram::focus {
-  background: url(img/headerbtn/headerbtnHOVER/instHoverBlu.svg) no-repeat;
+  background: url('img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg') no-repeat;
 }
 
 .opensea::hover,
 .opensea::active,
 .opensea::focus {
-  background: url(img/headerbtn/headerbtnHOVER/openseaHoverBlu.svg) no-repeat;
+  background: url('img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg') no-repeat;
 }
 
 .discord::hover,
