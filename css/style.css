@@ -102,33 +102,33 @@ h6 {
 
 /*hover*/
 
-.logo:hover,
-.logo:active,
-.logo:focus {
+.logo::hover,
+.logo::active,
+.logo::focus {
   background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
 }
 
-.instagram:hover,
-.instagram:active,
-.instagram:focus {
+.instagram::hover,
+.instagram::active,
+.instagram::focus {
   background: url(img/headerbtn/headerbtnHOVER/instHoverBlu.svg) no-repeat;
 }
 
-.opensea:hover,
-.opensea:active,
-.opensea:focus {
+.opensea::hover,
+.opensea::active,
+.opensea::focus {
   background: url(img/headerbtn/headerbtnHOVER/openseaHoverBlu.svg) no-repeat;
 }
 
-.discord:hover,
-.discord:active,
-.discord:focus {
+.discord::hover,
+.discord::active,
+.discord::focus {
   background: url(img/headerbtn/headerbtnHOVER/diskHoverBlu.svg) no-repeat;
 }
 
-.twitter:hover,
-.twitter:active,
-.twitter:focus {
+.twitter::hover,
+.twitter::active,
+.twitter::focus {
   background: url(img/headerbtn/headerbtnHOVER/twitHoverBlu.svg) no-repeat;
 }
 
