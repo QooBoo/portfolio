@@ -101,9 +101,10 @@ h6 {
 }
 
 /*hover*/
+//не отображаются состояния ниже, не отрабатывает юрл ссылка, никаким образом изменения не помогают. 
 
 .logo::hover {
-  background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
+  background: url('img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg') no-repeat;
 }
 
 .logo::active
@@ -130,13 +131,13 @@ h6 {
 .discord::hover,
 .discord::active,
 .discord::focus {
-  background: url(img/headerbtn/headerbtnHOVER/diskHoverBlu.svg) no-repeat;
+  background: url('img/headerbtn/headerbtnHOVER/diskHoverBlu.svg') no-repeat;
 }
 
 .twitter::hover,
 .twitter::active,
 .twitter::focus {
-  background: url(img/headerbtn/headerbtnHOVER/twitHoverBlu.svg) no-repeat;
+  background: url('img/headerbtn/headerbtnHOVER/twitHoverBlu.svg') no-repeat;
 }
 
 .logo:hover img,
