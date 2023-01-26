@@ -101,43 +101,36 @@ h6 {
 }
 
 /*hover*/
-//не отображаются состояния ниже, не отрабатывает юрл ссылка, никаким образом изменения не помогают. 
+/*не отображаются состояния ниже, не отрабатывает юрл ссылка, никаким образом изменения не помогают. */
 
-.logo::hover {
-  background: url('img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg') no-repeat;
-}
-
-.logo::active
-{
-  background: url('img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg') no-repeat;
-}
-
-.logo::focus {
-  background: url('img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg') no-repeat;
+.logo::hover,
+.logo::active,
+.logo::focus{
+  background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
 }
 
 .instagram::hover,
 .instagram::active,
 .instagram::focus {
-  background: url('img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg') no-repeat;
+  background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
 }
 
 .opensea::hover,
 .opensea::active,
 .opensea::focus {
-  background: url('img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg') no-repeat;
+  background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
 }
 
 .discord::hover,
 .discord::active,
 .discord::focus {
-  background: url('img/headerbtn/headerbtnHOVER/diskHoverBlu.svg') no-repeat;
+  background: url(img/headerbtn/headerbtnHOVER/diskHoverBlu.svg) no-repeat;
 }
 
 .twitter::hover,
 .twitter::active,
 .twitter::focus {
-  background: url('img/headerbtn/headerbtnHOVER/twitHoverBlu.svg') no-repeat;
+  background: url(img/headerbtn/headerbtnHOVER/twitHoverBlu.svg) no-repeat;
 }
 
 .logo:hover img,
