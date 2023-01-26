@@ -102,10 +102,17 @@ h6 {
 
 /*hover*/
 
-.logo::hover,
-.logo::active,
-.logo::focus {
-  background: url(/img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
+.logo:hover {
+  background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
+}
+
+.logo:active
+{
+  background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
+}
+
+.logo:focus {
+  background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
 }
 
 .instagram::hover,
