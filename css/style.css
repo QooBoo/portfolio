@@ -102,16 +102,16 @@ h6 {
 
 /*hover*/
 
-.logo:hover {
+.logo::hover {
   background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
 }
 
-.logo:active
+.logo::active
 {
   background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
 }
 
-.logo:focus {
+.logo::focus {
   background: url(img/headerbtn/headerbtnHOVER/logoPortfolBigBlu.svg) no-repeat;
 }
 
